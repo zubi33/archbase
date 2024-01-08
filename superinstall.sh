@@ -280,7 +280,7 @@ rsync -aqh home/ ~/
 
 echo """
 
-LightDM configuré.
+Fichiers utilisateurs copiés.
 
 -------------------------------------------------------------
 
@@ -304,7 +304,7 @@ sudo rsync -aqh root/ /
 
 echo """
 
-LightDM configuré.
+Fichiers racine copiés.
 
 -------------------------------------------------------------
 
